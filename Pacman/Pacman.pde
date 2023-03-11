@@ -16,8 +16,6 @@ void draw () {
   Update();
   Display();
   input.LateUpdate();
-  save("screenshots/game.png");
-  exit();
 }
 
 void mousePressed () {

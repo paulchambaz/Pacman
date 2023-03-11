@@ -1,2 +1,2 @@
-Pacman:
-	@cd .. && processing-java --sketch=Pacman --run
+run:
+	@processing-java --sketch=Pacman --run
