@@ -30,5 +30,5 @@ make clean
 
 ## Licence
 
-This project is licenced under the gplv2 licence.
+This project is licenced under the GPLv3 licence.
 For more information, read the license file.
